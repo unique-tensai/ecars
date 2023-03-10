@@ -90,7 +90,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>Showroom Electric Cars</label>
+    <label>2023Electric Cars</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
     <tabs>standard-Lead</tabs>
@@ -101,6 +101,7 @@
     <tabs>standard-Feed</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>standard-Sales</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>ECars_UtilityBar</utilityBar>
 </CustomApplication>
