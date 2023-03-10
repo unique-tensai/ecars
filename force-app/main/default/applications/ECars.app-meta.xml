@@ -101,7 +101,6 @@
     <tabs>standard-Feed</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>standard-Sales</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>ECars_UtilityBar</utilityBar>
 </CustomApplication>
